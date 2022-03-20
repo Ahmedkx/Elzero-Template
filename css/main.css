@@ -134,6 +134,7 @@ img{
     color: var(--main-color);
 }
 .header .megaMenu{
+    display: none;
     position: absolute;
     background-color: #ffffff;
     top: calc(100% + 1px);
