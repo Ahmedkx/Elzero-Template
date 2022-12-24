@@ -139,7 +139,7 @@ img{
     background-color: #ffffff;
     top: calc(100% + 1px);
     width: 100%;
-    display: flex;
+/*     display: flex; */
     gap: 40px;
     padding: 30px;
     border-bottom: 3px solid var(--main-color);
